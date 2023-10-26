@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasukesurya
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react next.js javascript
+- 🌱 I’m currently learning react next.js javascript python
 - 📫 How to reach me email- sonusurya.pratap@gmail.com
 
 <!---
